@@ -3,4 +3,4 @@ Script modelo para realização de análises de investimento FII e Ações utili
 
 # Gráfico realizado
 
-![newplot](https://user-images.githubusercontent.com/40063504/220161325-512dd636-3727-47e4-a4b8-50d61494399f.png)
+![newplot](https://user-images.githubusercontent.com/40063504/220164935-ff83f814-c40a-4511-bc5c-79ae5b4afd99.png)
